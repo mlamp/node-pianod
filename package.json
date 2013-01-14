@@ -1,0 +1,28 @@
+{
+  "name": "pianod",
+  "description": "Communicate with pianod server",
+  "version": "0.0.1",
+  "author": {
+    "name": "Margus Lamp",
+    "email": "margus.lamp@gmail.com",
+    "url": "http://github.com/mlamp"
+  },
+  "bugs": {
+    "url": "http://github.com/mlamp/pianod/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mlamp/pianod.git"
+  },
+  "main": "lib/pianod",
+  "dependencies": {
+  	"deferred": "~0.6" 
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "readmeFilename": "README.md"
+}
