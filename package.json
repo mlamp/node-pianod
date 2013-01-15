@@ -1,7 +1,7 @@
 {
   "name": "pianod",
   "description": "Communicate with pianod server",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": {
     "name": "Margus Lamp",
     "email": "margus.lamp+github@gmail.com",
@@ -16,7 +16,7 @@
   },
   "main": "lib/pianod",
   "dependencies": {
-  	"deferred": "~0.6" 
+  	"deferred": "~0.6"
   },
   "licenses": [
     {
