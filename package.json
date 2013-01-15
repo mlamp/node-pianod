@@ -1,7 +1,11 @@
 {
   "name": "pianod",
-  "description": "Communicate with pianod server",
-  "version": "0.0.5",
+  "description": "Communicate with pianod server (pandora radio service): http://deviousfish.com/pianod/",
+  "keywords": [
+  	"pianod",
+  	"pandora"
+  ],
+  "version": "0.0.6",
   "author": {
     "name": "Margus Lamp",
     "email": "margus.lamp+github@gmail.com",
