@@ -1,7 +1,7 @@
 {
   "name": "pianod",
   "description": "Communicate with pianod server",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Margus Lamp",
     "email": "margus.lamp+github@gmail.com",
